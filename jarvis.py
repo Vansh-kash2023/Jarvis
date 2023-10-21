@@ -11,7 +11,7 @@ import requests
 import subprocess  
 from email.message import EmailMessage  
 import time
-import winsound  # For playing alarm sound (Windows-specific)
+import winsound  
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
@@ -148,5 +148,4 @@ if __name__ == "__main__":
             city = query.split("in")[1].strip()
             get_weather(city)
         elif 'set alarm for' in query:
-            # Extract the hour and minute from the query and call set_alarm
             set_alarm(8, 30)  # Set an example alarm for 8:30 AM
