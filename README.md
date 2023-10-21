@@ -22,6 +22,6 @@ Get Involved:<br>
 I'm open to collaboration and improvements! If you have ideas, bug fixes, or want to contribute, please feel free to submit a pull request.<br>
 <br>
 Contact:<br>
-For inquiries, collaborations, or internship opportunities, you can reach me on LinkedIn at www.linkedin.com/in/vansh-kashyap-b91886289 or you can write an email to vansh.kash05@gmail.com 📬 <br>
+For inquiries, collaborations, or internship opportunities, you can reach me on LinkedIn at [Vansh Kashyap](https://www.linkedin.com/in/vansh-kashyap-b91886289) 🔗 or you can write an email to [vansh.kash05@gmail.com](mailto:vansh.kash05@gmail.com)  📧 <br>
 <br>
 Thank you for checking out Jarvis AI Assistant! Let's make AI work for you.<br>
