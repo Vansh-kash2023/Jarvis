@@ -10,7 +10,6 @@ Key Features:<br>
 🖥️ Application Launcher: Open your favorite apps effortlessly.<br>
 🌐 Web Navigation: Access websites using voice prompts.<br>
 🌦️ Weather Updates: Stay informed about real-time weather conditions for your location.<br>
-📧 Email Automation: Send and manage emails with simple voice commands.<br>
 <br>
 The Demo Video has been uploaded to my LinkedIn Profile so do not forget to check it out.<br>
 <br>
